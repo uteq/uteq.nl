@@ -56,7 +56,7 @@
 
                             <div class="md:flex gap-16 items-start mt-16">
 
-                                <div class="flex-1 shadow-2xl my-4 mb:my-0">
+                                <div class="flex-1 shadow-2xl my-4 md:my-0">
                                     <img src="/images/optocht.webp" />
                                 </div>
 
@@ -96,7 +96,7 @@
                                     </div>
                                 </div>
 
-                                <div class="flex-1 shadow-2xl my-4 mb:my-0">
+                                <div class="flex-1 shadow-2xl my-4 md:my-0">
                                     <img src="/images/safesent.webp" />
                                 </div>
                             </div>
