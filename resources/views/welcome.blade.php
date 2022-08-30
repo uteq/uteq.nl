@@ -62,17 +62,17 @@
 
                                 <div class="flex-1">
                                     <div class="text-xl mb-4">
-                                        Ticketing system
+                                        Ticket system
                                     </div>
 
 
                                     <div class="flex flex-col gap-2 opacity-80 text-lg leading-8">
-                                        <p>We designed and build a ticketing system fot the Allegorische Optocht for the VVV St.Nicolaasga.</p>
+                                        <p>We designed and build a ticket system fot the Allegorische Optocht for the VVV St.Nicolaasga.</p>
                                         <p>This system creates a QR code that will be scanned on entering the event.</p>
                                             <p>The people scanning the QR codes use a web app that directly shows it when the ticket is valid.</p>
 
                                         <a href="https://optocht.uteq.nl" class="underline text-yellow-100 flex gap-2 items-center" target="_blank">
-                                            Ticketing system
+                                            Ticket system
                                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                                         </a>
                                     </div>
