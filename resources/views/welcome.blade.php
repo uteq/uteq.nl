@@ -65,11 +65,10 @@
                                         Ticket system
                                     </div>
 
-
                                     <div class="flex flex-col gap-2 opacity-80 text-lg leading-8">
-                                        <p>We designed and build a ticket system fot the Allegorische Optocht for the VVV St.Nicolaasga.</p>
+                                        <p>We designed and build a ticket system for the Allegorische Optocht of VVV St.Nicolaasga.</p>
                                         <p>This system creates a QR code that will be scanned on entering the event.</p>
-                                            <p>The people scanning the QR codes use a web app that directly shows it when the ticket is valid.</p>
+                                        <p>The volunteers scanning the QR codes use our web app that directly shows it when the ticket is valid.</p>
 
                                         <a href="https://optocht.uteq.nl" class="underline text-yellow-100 flex gap-2 items-center" target="_blank">
                                             Ticket system
@@ -87,7 +86,7 @@
                                     </div>
 
                                     <div class="flex flex-col gap-2 opacity-80 text-lg leading-8">
-                                        <p>We designed and build a free platform for sending privacy sensitive files to for example your accountant.</p>
+                                        <p>We designed and build a free web application for sending privacy-sensitive files to your accountant.</p>
 
                                         <a href="https://safesent.nl" class="underline text-yellow-100 flex gap-2 items-center" target="_blank">
                                             Safesent.nl
