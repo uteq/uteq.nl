@@ -105,7 +105,7 @@
                             <h2 class="text-2xl md:text-4xl mb-4 md:leading-[48px]">About Uteq</h2>
                             <div class="flex flex-col gap-2 opacity-80 text-lg leading-8">
                                 <p>Designing and building things that people love to use is what makes our heart tick the most.</p>
-                                <p>Our main focus is building future proof systems. Sometimes this means reinventing the wheel, making it function just a bit better.</p>
+                                <p>Our main focus is building future-proof systems. But sometimes we need to reinvent the wheel, make it function just a bit better.</p>
                                 <p>You might say that we love to try out new stuff. This has its payoffs, but we believe in the future. We rather create something small and new than something big that is old before it hits the market.</p>
                             </div>
 
