@@ -25,7 +25,7 @@
             <fieldset class="text-white font-light items-center border border border-white px-8 md:px-16 mx-8 md:mx-16 py-8 w-full my-8 rounded-xl">
                 <legend class="px-4">
                     <div class="flex gap-4 items-center">
-                        <img src="/images/logo-small-white.svg" class="mx-auto w-[120px] md:w-[350px] top-[-5px] md:top-[-15px] relative">
+                        <img src="{{ Vite::asset('resources/images/logo-small-white.svg') }}" class="mx-auto w-[120px] md:w-[350px] top-[-5px] md:top-[-15px] relative">
                         <div>[Web]technology for U</div>
                     </div>
                 </legend>
@@ -57,7 +57,7 @@
                             <div class="md:flex gap-16 items-start mt-16">
 
                                 <div class="flex-1 shadow-2xl my-4 md:my-0">
-                                    <img src="/images/optocht.webp" />
+                                    <img src="{{ Vite::asset('resources/images/optocht.webp') }}" />
                                 </div>
 
                                 <div class="flex-1">
@@ -96,7 +96,7 @@
                                 </div>
 
                                 <div class="flex-1 shadow-2xl my-4 md:my-0">
-                                    <img src="/images/safesent.webp" />
+                                    <img src="{{ Vite::asset('resources/images/safesent.webp') }}" />
                                 </div>
                             </div>
                         </div>
