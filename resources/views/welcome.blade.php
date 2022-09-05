@@ -7,8 +7,7 @@
     <title>Uteq | Welkom</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/apple-touch-icon.png') }}">
-
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/uteqfavicon.png') }}">
 
     <!-- Fonts -->
 {{--    <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">--}}
