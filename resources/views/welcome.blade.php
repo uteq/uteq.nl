@@ -72,7 +72,7 @@
                                     <div class="flex flex-col gap-2 opacity-80 text-lg leading-8">
                                         <p>We designed and build a ticket system for the Allegorische Optocht of VVV St.Nicolaasga.</p>
                                         <p>This system creates a QR code that will be scanned on entering the event.</p>
-                                        <p>The volunteers scanning the QR codes use our web app that directly shows if ticket is valid.</p>
+                                        <p>The volunteers scanning the QR codes use our web app that directly shows if the ticket is valid.</p>
 
                                         <a href="https://optocht.uteq.nl" class="underline text-yellow-100 flex gap-2 items-center" target="_blank">
                                             Ticket system
