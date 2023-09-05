@@ -1,15 +1,19 @@
 {
+  "resources/images/logo-white.svg": {
+    "file": "assets/logo-white.e2126cac.svg",
+    "src": "resources/images/logo-white.svg"
+  },
   "resources/images/logo-small-white.svg": {
     "file": "assets/logo-small-white.fbf3486b.svg",
     "src": "resources/images/logo-small-white.svg"
   },
+  "resources/images/allegorische-optocht.webp": {
+    "file": "assets/allegorische-optocht.1c14ed67.webp",
+    "src": "resources/images/allegorische-optocht.webp"
+  },
   "resources/images/logo.svg": {
     "file": "assets/logo.533f8784.svg",
     "src": "resources/images/logo.svg"
-  },
-  "resources/images/logo-white.svg": {
-    "file": "assets/logo-white.e2126cac.svg",
-    "src": "resources/images/logo-white.svg"
   },
   "resources/images/optocht.webp": {
     "file": "assets/optocht.b5f5aa8e.webp",
