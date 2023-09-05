@@ -60,7 +60,7 @@
                             <div class="md:flex gap-16 items-start mt-16">
 
                                 <div class="flex-1 shadow-2xl my-4 md:my-0">
-                                    <img src="{{ Vite::asset('resources/images/optocht.webp') }}" />
+                                    <img src="{{ Vite::asset('resources/images/allegorische-optocht.webp') }}" />
                                 </div>
 
                                 <div class="flex-1">
